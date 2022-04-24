@@ -1,0 +1,14 @@
+.center{
+display: inline-block;
+margin-left:470px;
+width: 312px;
+}
+
+.yazi{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    margin-left: 50px;
+    max-width: 311px;
+    word-wrap: break-word;
+}
